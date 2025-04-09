@@ -56,7 +56,7 @@ button{
 }
 @media screen  and (max-width: 768px) {
     .form {
-      margin: 150px 80px 50px 50px;
+      margin: 150px 50px 50px 50px;
       padding: 20px;
     }
   
